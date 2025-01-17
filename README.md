@@ -12,13 +12,13 @@ This project showcases a highly customizable 3D-printed 3x3 macropad powered by 
 
 ## Requirements
 ### Hardware
-- Raspberry Pi Zero (or compatible host device)
+- [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/) (RP2040 chip)
 - 9 blue mechanical switches
 - Rotary encoders
-- 3D-printed case (files included in this repository)
+- 3D-printed case
 
 ### Software
-- QMK Firmware (customized version available in this repository)
+- [QMK Firmware]([https://docs.qmk.fm/newbs_building_firmware](https://docs.qmk.fm/newbs))
 - Required libraries and dependencies for QMK setup
 
 ## Setup
@@ -30,7 +30,7 @@ This project showcases a highly customizable 3D-printed 3x3 macropad powered by 
 2. **Flash the Firmware**:
    - Clone the QMK Firmware repository.
    - Navigate to the custom firmware directory provided in this project.
-   - Compile and flash the firmware to the Raspberry Pi Zero.
+   - [Compile](https://docs.qmk.fm/newbs_building_firmware) and flash the firmware to the Raspberry Pi Zero.
 
 4. **Customize the Configuration**:
    - Edit the keymaps.c file as you like
