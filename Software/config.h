@@ -1,0 +1,8 @@
+#pragma once
+
+#define ENCODERS_PAD_A { GP28, GP9}
+#define ENCODERS_PAD_B { GP18, GP6}
+#define ENCODER_RESOLUTION 4
+#define ENCODER_DIRECTION_FLIP
+
+#define MIDI_BASIC
