@@ -1,5 +1,5 @@
 # Mactrol
-
+![Image](https://github.com/user-attachments/assets/cbb9c22c-d1b4-40ee-ad7a-b354117c6f51)
 ## Overview
 This project showcases a highly customizable 3D-printed 3x3 macropad powered by a Raspberry Pi Zero as the host device. Designed for flexibility, the macropad features 9 blue mechanical switches arranged in a 3x3 matrix configuration, combined with rotary encoders for additional functionality. It runs on a custom version of QMK Firmware tailored for specific needs but remains fully adaptable for different user requirements.
 
